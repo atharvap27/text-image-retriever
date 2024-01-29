@@ -1,4 +1,4 @@
-# text-image-retriever
+# FindMe.ai
 🌟 Introducing FindMe.AI: Unleash the Power of Your Memories with Intelligent Photo Search! 🌟
 
 Do you find yourself endlessly scrolling through your photo library, desperately trying to locate that one special moment? Say goodbye to the never-ending search and welcome FindMe.AI into your life!
